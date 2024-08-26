@@ -1,0 +1,14 @@
+metadata_version: 1
+name: BWA Generate Genome Index
+description: |-
+  Generates FM-index needed by BWA from input genome.
+
+  https://github.com/lh3/bwa
+tags:
+- Bioinformatics
+- BWA
+- Alignment
+- Bulk Sequencing
+- DNA
+authors:
+- name: Stephen Pirpinias
